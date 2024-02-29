@@ -7,6 +7,5 @@
 </head>
 <body>
     <h1>Ini adalah halaman yang akan menampilkan informasi dari pengguna saat ini.</h1>
-    <p>coba</p>
 </body>
 </html>
